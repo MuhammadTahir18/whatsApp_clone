@@ -39,7 +39,17 @@ e-  Calls Screen
 
 This project is created for learning Flutter UI development and practicing how to build real-world mobile app interfaces.
 
+![App Screenshot](https://github.com/MuhammadTahir18/whatsApp_clone/blob/4ab2fc1354203bc01e04bb71b3ecf16c5bf6c97a/1.jpeg)
 
+![App Screenshot](https://github.com/MuhammadTahir18/whatsApp_clone/blob/4ab2fc1354203bc01e04bb71b3ecf16c5bf6c97a/2.jpeg)
 
+![App Screenshot](https://github.com/MuhammadTahir18/whatsApp_clone/blob/4ab2fc1354203bc01e04bb71b3ecf16c5bf6c97a/3.jpeg)
+
+![App Screenshot](https://github.com/MuhammadTahir18/whatsApp_clone/blob/4ab2fc1354203bc01e04bb71b3ecf16c5bf6c97a/4.jpeg)
+![App Screenshot](https://github.com/MuhammadTahir18/whatsApp_clone/blob/4ab2fc1354203bc01e04bb71b3ecf16c5bf6c97a/5.jpeg)
+
+![App Screenshot](https://github.com/MuhammadTahir18/whatsApp_clone/blob/4ab2fc1354203bc01e04bb71b3ecf16c5bf6c97a/6.jpeg)
+
+![App Screenshot](https://github.com/MuhammadTahir18/whatsApp_clone/blob/4ab2fc1354203bc01e04bb71b3ecf16c5bf6c97a/7.jpeg)
 
 
