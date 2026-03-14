@@ -35,7 +35,7 @@ d-  Status Screen
 
 e-  Calls Screen
 
-🎯 Purpose
+ Purpose
 
 This project is created for learning Flutter UI development and practicing how to build real-world mobile app interfaces.
 
